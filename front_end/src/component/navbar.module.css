@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  align-items: center;
+  list-style: none;
+  padding: 20px;
+  background-color: white;
+}
+
+.navbar button   {
+  color: black;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+ border: none;
+ background-color: transparent;
+}
